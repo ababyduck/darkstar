@@ -13,6 +13,8 @@ TestResults
 *.user
 *.sln.docstates
 *.DS_Store
+conf/*.conf
+sql/DSP_Import.bat
 
 # Build results
 [Dd]ebug/
